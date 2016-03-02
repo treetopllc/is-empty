@@ -1,11 +1,9 @@
 {
   "name": "is-empty",
-  "repository": "https://github.com/treetopllc/is-empty.git",
+  "repo": "treetopllc/is-empty",
   "description": "Check whether a value is empty.",
   "version": "1.0.1",
   "keywords": ["empty", "array", "object"],
-  "devDependencies": {
-    "mocha": "^2.4.5",
-    "should": "^8.2.2"
-  }
+  "license": "MIT",
+  "scripts": ["index.js"]
 }
